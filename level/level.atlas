@@ -1,0 +1,22 @@
+images {
+  image: "/level/images/ground01.png"
+}
+images {
+  image: "/level/images/ground02.png"
+}
+images {
+  image: "/level/images/rock_planks.png"
+}
+images {
+  image: "/level/images/spikes.png"
+}
+images {
+  image: "/hero/images/coin.png"
+}
+images {
+  image: "/level/images/background.png"
+}
+images {
+  image: "/level/images/background_real.png"
+}
+extrude_borders: 2
